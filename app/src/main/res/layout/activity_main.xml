@@ -11,10 +11,11 @@
         android:id="@+id/button"
         android:layout_width="362dp"
         android:layout_height="191dp"
-        android:text="Change"
+        android:text="Game"
         android:textSize="50sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
